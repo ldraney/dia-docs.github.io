@@ -1,4 +1,18 @@
+# organized based on https://www.mkdocs.org/user-guide/configuration/#edit_uri
 site_name: dia-docs
+site_description: personal docs
+site_author: ldraney
 repo_url: https://github.com/ldraney/dia-docs/
+edit_uri: blob/main/docs/
 theme:
   name: material
+
+nav:
+  - 'index.md'
+  - 'about.md'
+  - 'James.md'
+  - 'Notes.md'
+  - 'windows-wsl-linux.md'
+  - 'finances.md'
+  - 'neovim.md'
+  - 'thoughts.md'
