@@ -1,0 +1,4 @@
+site_name: dia-docs
+repo_url: https://github.com/ldraney/dia-docs/
+theme:
+  name: material
